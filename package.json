@@ -1,0 +1,17 @@
+{
+  "name": "gaia-components-a11y",
+  "description": "gaia-components accessibility dashboard",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yzen/gaia-components-a11y.git"
+  },
+  "scripts": {
+    "build": "gulp build"
+  },
+  "license": "MPL",
+  "dependencies": {
+    "fxos-build": "0.7.x",
+    "gulp": "3.8.x"
+  }
+}
